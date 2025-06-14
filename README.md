@@ -2,11 +2,8 @@
 
 <div align="center">
 <a href="https://github.com/midudev/landing-gta-vi">
-  <img width="300px" src="./public/logo-stack.svg" alt="Logo de Grand Theft Auto" width="800" />
+  <img width="300px" src="https://raw.githubusercontent.com/midudev/landing-gta-vi/refs/heads/main/src/assets/full-logo.webp" alt="Logo de Grand Theft Auto" width="800" />
 </a>
-<div align"center">
-  <img width="100px" src="./public/landing.png" alt="Mensaje indicando que es una Landing" width="300" />
-</div>
 
 ## Landing de la web del Grand Theft Auto VI
  [Reportar error](https://github.com/midudev/landing-gta-vi/issues) · [Sugerir algo](https://github.com/midudev/landing-gta-vi/issues)
